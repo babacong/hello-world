@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Babacong here, I like Python!
+I'm a chinese!
